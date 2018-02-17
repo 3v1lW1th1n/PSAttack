@@ -12,7 +12,7 @@ namespace PSAttack.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "15.1.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "15.5.0.0")]
     internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase {
         
         private static Settings defaultInstance = ((Settings)(global::System.Configuration.ApplicationSettingsBase.Synchronized(new Settings())));
@@ -25,7 +25,7 @@ namespace PSAttack.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("IpjDouBF7f5X3gYtELNa6FVrBRjhM7mPsaayT5Om68ViPnpmq69MZLRWUKfua8k6")]
+        [global::System.Configuration.DefaultSettingValueAttribute("338XAJy7Qq2ZWSILzriGpKA7BxbVJWa92okODYFVJ2UcE9d9jeSJgjxCcpIgdORu")]
         public string encryptionKey {
             get {
                 return ((string)(this["encryptionKey"]));
@@ -34,7 +34,7 @@ namespace PSAttack.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("RcpqpSIUuxJUEfJLOIjCZ")]
+        [global::System.Configuration.DefaultSettingValueAttribute("emigHMiUICyCXwFZTIG")]
         public string valueStore {
             get {
                 return ((string)(this["valueStore"]));
